@@ -1,0 +1,5 @@
+export const GETALL = "GETALL"
+export const ADD = "ADD"
+export const CHANGETITLE = "CHANGETITLE"
+export const CHANGEDONE = "CHANGEDONE"
+export const DEL = "DEL"
